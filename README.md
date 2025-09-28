@@ -1,2 +1,2 @@
-# mkldigitalcraft
+mkldigitalcraft
 for frontend development projects
